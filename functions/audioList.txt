@@ -1,0 +1,7 @@
+beatbox.wav
+chimes.wav
+dialup.wav
+harp.wav
+piano.wav
+0.5
+1.5
