@@ -1,2 +1,2 @@
 # JavaProgramming
-Java Programming Practice
+Java Programming Practice and Homework from Coursera
